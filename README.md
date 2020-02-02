@@ -26,8 +26,8 @@ Here a list of what I'm going to assemble:
   * PCB Assembly
   * Rear Wheels (Driving)
 
-![alt_pi_car]()
-![alt_pi_car]()
-![alt_pi_car]()
+![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside.jpg)
+![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside_002.jpg)
+![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside_003.jpg)
 
 
