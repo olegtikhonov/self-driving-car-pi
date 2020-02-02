@@ -30,4 +30,23 @@ Here a list of what I'm going to assemble:
 ![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside_002.jpg)
 ![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside_003.jpg)
 
+## How ultrasonic sensor works
+Sensor detects objects by emitting a short ultrasonic burst and then “listening” for the echo. Under control of a 
+host micro-controller (trigger pulse), the sensor emits a short 40 kHz (ultrasonic) burst. This burst travels through the air, 
+hits an object, and then bounces back to the sensor. The PING))) sensor provides an output pulse to the host that will terminate 
+when the echo is detected; hence the width of this pulse corresponds to the distance to the target.
+
+## How light follower works
+It detects the amount of ambient light by using two light sensors – photo-resistors. Depending on the relation of 
+readings between left and right sensor piCar can control rotation of it`s motors to turn itself towards direction of the light source.
+
+## How line follower works
+It detects a specific coloured line painted on a surface of different contrast, such as white on black.
+Due to the difference of infrared reflection on black and white surfaces, it provides two voltages which can be amplified 
+and used as logic states.
+
+ 
+
+
+
 
