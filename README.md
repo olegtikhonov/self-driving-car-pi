@@ -26,6 +26,8 @@ Here a list of what I'm going to assemble:
   * PCB Assembly
   * Rear Wheels (Driving)
 
-  
-      
+![alt_pi_car]()
+![alt_pi_car]()
+![alt_pi_car]()
+
 
