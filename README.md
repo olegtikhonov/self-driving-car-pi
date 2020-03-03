@@ -30,6 +30,10 @@ Here a list of what I'm going to assemble:
 ![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside_002.jpg)
 ![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/what_is_inside_003.jpg)
 
+Added rear wheels, two engines and a gear :-)
+![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/20200303_145715.jpg)
+![alt_pi_car](https://github.com/olegtikhonov/self-driving-car-pi/blob/master/pictures/20200303_145737.jpg)
+
 ## How ultrasonic sensor works
 Sensor detects objects by emitting a short ultrasonic burst and then “listening” for the echo. Under control of a 
 host micro-controller (trigger pulse), the sensor emits a short 40 kHz (ultrasonic) burst. This burst travels through the air, 
